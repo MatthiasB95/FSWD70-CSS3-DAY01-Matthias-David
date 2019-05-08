@@ -3,12 +3,7 @@ div{
 	border-color: red;
 	margin: 5px;
 }
-#third > p{
-	display: none;
-}
-#fourth h1{
-	display: none;
-}
+
 div {
 	border-style: solid;
 	border-color:red;
@@ -17,20 +12,5 @@ div {
 }
 
 
-#second  {
-	visibility: hidden;
-}
-#fifth {
-	display: none;
-}
-p{
-	display: none;
-}
 
-#sixth  div {
-	visibility: hidden;
-}
-img{
-	visibility: visible;
-}
 
