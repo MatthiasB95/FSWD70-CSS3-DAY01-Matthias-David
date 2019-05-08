@@ -2,9 +2,7 @@ h1 {
 	font-size: 8em;
 	color: red;
 }
-#first {
-	font-size: 4;
-}
+
 ol {
 	color: red;
 }
@@ -13,4 +11,16 @@ h4 {
 }
 p {
 	color: orange;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 55%;
+	float: right;
+
+
+}
+#first{
+	color: gray;
 }
