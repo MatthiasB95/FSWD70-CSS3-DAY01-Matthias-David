@@ -1,3 +1,14 @@
+div{
+	border-style: solid;
+	border-color: red;
+	margin: 5px;
+}
+#third > p{
+	display: none;
+}
+#fourth h1{
+	display: none;
+}
 div {
 	border-style: solid;
 	border-color:red;
@@ -12,3 +23,5 @@ h1{
 img{
 	display: none;
 }
+
+
