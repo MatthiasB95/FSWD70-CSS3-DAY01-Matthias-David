@@ -1,3 +1,14 @@
+div{
+	border-style: solid;
+	border-color: red;
+	margin: 5px;
+}
+#third > p{
+	display: none;
+}
+#fourth h1{
+	display: none;
+}
 div {
 	border-style: solid;
 	border-color:red;
@@ -19,5 +30,12 @@ p{
 	visibility: hidden;
 }
 img{
+<<<<<<< HEAD:style.css
 	visibility: visible;
 }
+=======
+	display: none;
+}
+
+
+>>>>>>> eadad7a8d7f0b12a91358953e8e999223de3e178:style1.css
