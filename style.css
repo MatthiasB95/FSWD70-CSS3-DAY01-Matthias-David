@@ -2,13 +2,22 @@ div {
 	border-style: solid;
 	border-color:red;
 	margin:5px; 
+	visibility: visible;
 }
-h1{
+
+
+#second  {
+	visibility: hidden;
+}
+#fifth {
 	display: none;
-	}
-#second div{
+}
+p{
 	display: none;
+}
+#sixth  div {
+	visibility: hidden;
 }
 img{
-	display: none;
+	visibility: visible;
 }
