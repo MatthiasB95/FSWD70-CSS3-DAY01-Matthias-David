@@ -1,0 +1,14 @@
+div {
+	border-style: solid;
+	border-color:red;
+	margin:5px; 
+}
+h1{
+	display: none;
+	}
+#second div{
+	display: none;
+}
+img{
+	display: none;
+}
